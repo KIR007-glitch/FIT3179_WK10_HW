@@ -32,7 +32,7 @@ const VegaLiteSpec2 = {
         }
     }],
         "data": {
-          "url": "https://raw.githubusercontent.com/KIR007-glitch/FIT3179_W10_HW/main/data/2021_driver_data.csv",
+          "url": "https://raw.githubusercontent.com/KIR007-glitch/FIT3179_WK10_HW/main/data/2021_driver_data.csv",
             "format":{"type":"csv"}
         },
         transform: [{
