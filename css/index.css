@@ -1,0 +1,10 @@
+#vg-tooltip-element tr:nth-child(odd) td:first-child {
+    font-weight: bold;
+    color: black;
+}
+
+#vg-tooltip-element tr:nth-child(even) td:first-child {
+    font-weight: bold;
+    color: black;
+}
+

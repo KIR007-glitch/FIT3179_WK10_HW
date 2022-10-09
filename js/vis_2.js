@@ -59,12 +59,12 @@ const VegaLiteSpec2 = {
         "tooltip": [
             { "field": "surname", "type": "nominal", "title": "Name" },
             { "field": "name", "type": "nominal", "title": "GrandPrix" },
-            { "field": "season_points", "type": "ordinal", "title": "Total Points" },
+            { "field": "season_points", "type": "ordinal", "title": "Total Points", },
         ]
     },
     "config": {
-        "text": { "font": "Open Sans" },
-        "title": { "font": "monospace", "fontSize": 15, "fontWeight": "normal" },
+        "text":  { "font": "Open Sans" },
+        "title": { "font": "monospace", "fontSize": 15, "fontWeight": "bold" },
     },
 }
 

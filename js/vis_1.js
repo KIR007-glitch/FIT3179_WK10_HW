@@ -32,7 +32,7 @@ const VegaLiteSpec1 = {
           "tooltip": [
               { "field": "surname", "type": "nominal", "title": "Name" },
               { "field": "name", "type": "nominal", "title": "GrandPrix" },
-              { "field": "season_points", "type": "ordinal", "title": "total_points" },
+              { "field": "season_points", "type": "ordinal", "title": "Total points" },
           ]
         }
       },
