@@ -1,0 +1,221 @@
+raceId,round,name,surname,url_y,sprint_points,total_points,season_points
+1052,1,Bahrain Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,18.0,18.0
+1053,2,Emilia Romagna Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,25.0,43.0
+1054,3,Portuguese Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,18.0,61.0
+1055,4,Spanish Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,19.0,80.0
+1056,5,Monaco Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,25.0,105.0
+1057,6,Azerbaijan Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,0.0,105.0
+1059,7,French Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,26.0,131.0
+1058,8,Styrian Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,25.0,156.0
+1060,9,Austrian Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,26.0,182.0
+1061,10,British Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,3.0,3.0,182.0
+1062,11,Hungarian Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,2.0,184.0
+1063,12,Belgian Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,12.5,196.5
+1064,13,Dutch Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,25.0,221.5
+1065,14,Italian Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,2.0,2.0,221.5
+1066,15,Russian Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,18.0,239.5
+1067,16,Turkish Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,18.0,257.5
+1069,17,United States Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,25.0,282.5
+1070,18,Mexico City Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,25.0,307.5
+1071,19,São Paulo Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,2.0,20.0,325.5
+1051,20,Qatar Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,19.0,344.5
+1072,21,Saudi Arabian Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,18.0,362.5
+1073,22,Abu Dhabi Grand Prix,Verstappen,http://en.wikipedia.org/wiki/Max_Verstappen,0.0,26.0,388.5
+1052,1,Bahrain Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,25.0,25.0
+1053,2,Emilia Romagna Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,19.0,44.0
+1054,3,Portuguese Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,25.0,69.0
+1055,4,Spanish Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,25.0,94.0
+1056,5,Monaco Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,7.0,101.0
+1057,6,Azerbaijan Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,0.0,101.0
+1059,7,French Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,18.0,119.0
+1058,8,Styrian Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,19.0,138.0
+1060,9,Austrian Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,12.0,150.0
+1061,10,British Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,2.0,27.0,175.0
+1062,11,Hungarian Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,18.0,193.0
+1063,12,Belgian Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,7.5,200.5
+1064,13,Dutch Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,19.0,219.5
+1065,14,Italian Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,0.0,219.5
+1066,15,Russian Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,25.0,244.5
+1067,16,Turkish Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,10.0,254.5
+1069,17,United States Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,19.0,273.5
+1070,18,Mexico City Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,18.0,291.5
+1071,19,São Paulo Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,25.0,316.5
+1051,20,Qatar Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,25.0,341.5
+1072,21,Saudi Arabian Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,26.0,367.5
+1073,22,Abu Dhabi Grand Prix,Hamilton,http://en.wikipedia.org/wiki/Lewis_Hamilton,0.0,18.0,385.5
+1052,1,Bahrain Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,16.0,16.0
+1053,2,Emilia Romagna Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,0.0,16.0
+1054,3,Portuguese Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,16.0,32.0
+1055,4,Spanish Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,15.0,47.0
+1056,5,Monaco Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,0.0,47.0
+1057,6,Azerbaijan Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,0.0,47.0
+1059,7,French Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,12.0,59.0
+1058,8,Styrian Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,15.0,74.0
+1060,9,Austrian Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,18.0,92.0
+1061,10,British Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,1.0,16.0,107.0
+1062,11,Hungarian Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,0.0,107.0
+1063,12,Belgian Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,0.0,107.0
+1064,13,Dutch Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,15.0,122.0
+1065,14,Italian Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,3.0,18.0,137.0
+1066,15,Russian Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,10.0,147.0
+1067,16,Turkish Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,26.0,173.0
+1069,17,United States Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,8.0,181.0
+1070,18,Mexico City Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,0.0,181.0
+1071,19,São Paulo Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,3.0,18.0,196.0
+1051,20,Qatar Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,0.0,196.0
+1072,21,Saudi Arabian Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,15.0,211.0
+1073,22,Abu Dhabi Grand Prix,Bottas,http://en.wikipedia.org/wiki/Valtteri_Bottas,0.0,8.0,219.0
+1052,1,Bahrain Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,10.0,10.0
+1053,2,Emilia Romagna Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,0.0,10.0
+1054,3,Portuguese Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,12.0,22.0
+1055,4,Spanish Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,10.0,32.0
+1056,5,Monaco Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,12.0,44.0
+1057,6,Azerbaijan Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,25.0,69.0
+1059,7,French Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,15.0,84.0
+1058,8,Styrian Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,12.0,96.0
+1060,9,Austrian Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,8.0,104.0
+1061,10,British Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,0.0,104.0
+1062,11,Hungarian Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,0.0,104.0
+1063,12,Belgian Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,0.0,104.0
+1064,13,Dutch Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,4.0,108.0
+1065,14,Italian Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,10.0,118.0
+1066,15,Russian Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,2.0,120.0
+1067,16,Turkish Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,15.0,135.0
+1069,17,United States Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,15.0,150.0
+1070,18,Mexico City Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,15.0,165.0
+1071,19,São Paulo Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,13.0,178.0
+1051,20,Qatar Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,12.0,190.0
+1072,21,Saudi Arabian Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,0.0,190.0
+1073,22,Abu Dhabi Grand Prix,Pérez,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,0.0,0.0,190.0
+1052,1,Bahrain Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,4.0,4.0
+1053,2,Emilia Romagna Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,10.0,14.0
+1054,3,Portuguese Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,0.0,14.0
+1055,4,Spanish Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,6.0,20.0
+1056,5,Monaco Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,18.0,38.0
+1057,6,Azerbaijan Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,4.0,42.0
+1059,7,French Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,0.0,42.0
+1058,8,Styrian Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,8.0,50.0
+1060,9,Austrian Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,10.0,60.0
+1061,10,British Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,8.0,68.0
+1062,11,Hungarian Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,15.0,83.0
+1063,12,Belgian Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,0.5,83.5
+1064,13,Dutch Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,6.0,89.5
+1065,14,Italian Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,8.0,97.5
+1066,15,Russian Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,15.0,112.5
+1067,16,Turkish Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,4.0,116.5
+1069,17,United States Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,6.0,122.5
+1070,18,Mexico City Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,8.0,130.5
+1071,19,São Paulo Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,1.0,9.0,138.5
+1051,20,Qatar Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,6.0,144.5
+1072,21,Saudi Arabian Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,4.0,148.5
+1073,22,Abu Dhabi Grand Prix,Sainz,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,0.0,15.0,163.5
+1052,1,Bahrain Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,12.0,12.0
+1053,2,Emilia Romagna Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,15.0,27.0
+1054,3,Portuguese Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,10.0,37.0
+1055,4,Spanish Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,4.0,41.0
+1056,5,Monaco Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,15.0,56.0
+1057,6,Azerbaijan Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,10.0,66.0
+1059,7,French Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,10.0,76.0
+1058,8,Styrian Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,10.0,86.0
+1060,9,Austrian Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,15.0,101.0
+1061,10,British Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,12.0,113.0
+1062,11,Hungarian Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,0.0,113.0
+1063,12,Belgian Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,0.0,113.0
+1064,13,Dutch Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,1.0,114.0
+1065,14,Italian Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,18.0,132.0
+1066,15,Russian Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,7.0,139.0
+1067,16,Turkish Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,6.0,145.0
+1069,17,United States Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,4.0,149.0
+1070,18,Mexico City Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,1.0,150.0
+1071,19,São Paulo Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,1.0,151.0
+1051,20,Qatar Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,2.0,153.0
+1072,21,Saudi Arabian Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,1.0,154.0
+1073,22,Abu Dhabi Grand Prix,Norris,http://en.wikipedia.org/wiki/Lando_Norris,0.0,6.0,160.0
+1052,1,Bahrain Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,8.0,8.0
+1053,2,Emilia Romagna Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,12.0,20.0
+1054,3,Portuguese Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,8.0,28.0
+1055,4,Spanish Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,12.0,40.0
+1056,5,Monaco Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,0.0,40.0
+1057,6,Azerbaijan Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,12.0,52.0
+1059,7,French Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,0.0,52.0
+1058,8,Styrian Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,6.0,58.0
+1060,9,Austrian Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,4.0,62.0
+1061,10,British Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,18.0,80.0
+1062,11,Hungarian Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,0.0,80.0
+1063,12,Belgian Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,2.0,82.0
+1064,13,Dutch Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,10.0,92.0
+1065,14,Italian Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,12.0,104.0
+1066,15,Russian Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,0.0,104.0
+1067,16,Turkish Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,12.0,116.0
+1069,17,United States Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,12.0,128.0
+1070,18,Mexico City Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,10.0,138.0
+1071,19,São Paulo Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,10.0,148.0
+1051,20,Qatar Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,4.0,152.0
+1072,21,Saudi Arabian Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,6.0,158.0
+1073,22,Abu Dhabi Grand Prix,Leclerc,http://en.wikipedia.org/wiki/Charles_Leclerc,0.0,1.0,159.0
+1052,1,Bahrain Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,6.0,6.0
+1053,2,Emilia Romagna Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,8.0,14.0
+1054,3,Portuguese Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,2.0,16.0
+1055,4,Spanish Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,8.0,24.0
+1056,5,Monaco Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,0.0,24.0
+1057,6,Azerbaijan Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,2.0,26.0
+1059,7,French Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,8.0,34.0
+1058,8,Styrian Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,0.0,34.0
+1060,9,Austrian Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,6.0,40.0
+1061,10,British Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,10.0,50.0
+1062,11,Hungarian Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,0.0,50.0
+1063,12,Belgian Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,6.0,56.0
+1064,13,Dutch Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,0.0,56.0
+1065,14,Italian Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,1.0,27.0,82.0
+1066,15,Russian Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,12.0,94.0
+1067,16,Turkish Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,0.0,94.0
+1069,17,United States Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,10.0,104.0
+1070,18,Mexico City Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,0.0,104.0
+1071,19,São Paulo Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,0.0,104.0
+1051,20,Qatar Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,0.0,104.0
+1072,21,Saudi Arabian Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,10.0,114.0
+1073,22,Abu Dhabi Grand Prix,Ricciardo,http://en.wikipedia.org/wiki/Daniel_Ricciardo,0.0,0.0,114.0
+1052,1,Bahrain Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,0.0,0.0
+1053,2,Emilia Romagna Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,6.0,6.0
+1054,3,Portuguese Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,1.0,7.0
+1055,4,Spanish Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,1.0,8.0
+1056,5,Monaco Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,8.0,16.0
+1057,6,Azerbaijan Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,15.0,31.0
+1059,7,French Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,6.0,37.0
+1058,8,Styrian Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,0.0,37.0
+1060,9,Austrian Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,2.0,39.0
+1061,10,British Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,0.0,39.0
+1062,11,Hungarian Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,11.0,50.0
+1063,12,Belgian Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,4.0,54.0
+1064,13,Dutch Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,12.0,66.0
+1065,14,Italian Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,0.0,66.0
+1066,15,Russian Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,0.0,66.0
+1067,16,Turkish Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,8.0,74.0
+1069,17,United States Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,0.0,74.0
+1070,18,Mexico City Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,12.0,86.0
+1071,19,São Paulo Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,6.0,92.0
+1051,20,Qatar Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,0.0,92.0
+1072,21,Saudi Arabian Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,8.0,100.0
+1073,22,Abu Dhabi Grand Prix,Gasly,http://en.wikipedia.org/wiki/Pierre_Gasly,0.0,10.0,110.0
+1052,1,Bahrain Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,0.0,0.0
+1053,2,Emilia Romagna Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,1.0,1.0
+1054,3,Portuguese Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,4.0,5.0
+1055,4,Spanish Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,0.0,5.0
+1056,5,Monaco Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,0.0,5.0
+1057,6,Azerbaijan Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,8.0,13.0
+1059,7,French Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,4.0,17.0
+1058,8,Styrian Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,2.0,19.0
+1060,9,Austrian Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,1.0,20.0
+1061,10,British Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,6.0,26.0
+1062,11,Hungarian Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,12.0,38.0
+1063,12,Belgian Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,0.0,38.0
+1064,13,Dutch Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,8.0,46.0
+1065,14,Italian Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,4.0,50.0
+1066,15,Russian Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,8.0,58.0
+1067,16,Turkish Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,0.0,58.0
+1069,17,United States Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,0.0,58.0
+1070,18,Mexico City Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,2.0,60.0
+1071,19,São Paulo Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,2.0,62.0
+1051,20,Qatar Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,15.0,77.0
+1072,21,Saudi Arabian Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,0.0,77.0
+1073,22,Abu Dhabi Grand Prix,Alonso,http://en.wikipedia.org/wiki/Fernando_Alonso,0.0,4.0,81.0
